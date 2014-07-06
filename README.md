@@ -1,4 +1,4 @@
 sapporo-beam
 ============
 
-The community of language based on Erlang VM
+The community language built on top of the Erlang VM
